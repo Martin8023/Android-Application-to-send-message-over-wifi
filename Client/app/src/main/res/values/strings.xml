@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="warn1">Warning 1</string>
+    <string name="warn2">Warning 2</string>
+    <string name="warn3">Warning 3</string>
+    <string name="warn4">Warning 4</string>
+    <string name="warn5">Warning 5</string>
+    <string name="warn6">Warning 6</string>
+</resources>
