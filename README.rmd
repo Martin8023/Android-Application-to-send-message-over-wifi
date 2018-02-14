@@ -1,0 +1,4 @@
+# Android Application to send message over wifi
+
+> These apps were developed as part of my advanced driver assistance systems(ADAS) project.
+  The apps are still in development phase.
