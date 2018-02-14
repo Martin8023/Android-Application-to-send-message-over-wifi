@@ -9,5 +9,5 @@
  - There are two apps - Host and Client. Each has to be installed on two different android devices.
  - The two android devices has to be in the same WiFi network or paired through WiFi direct.
  - Through the host app message can be sent to the client app.
- - The apps basically was inspired from the following blog:
+ - The apps basically was inspired from: 
   (http://android-er.blogspot.com/2014/08/bi-directional-communication-between.html)
