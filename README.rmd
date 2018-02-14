@@ -1,4 +1,4 @@
-# Android Application to send message over wifi
+# Android Application to send message over WiFi
 
 > These apps were developed as part of my advanced driver assistance systems(ADAS) project.
   The apps are still in development phase. The project is based on a android platform.
