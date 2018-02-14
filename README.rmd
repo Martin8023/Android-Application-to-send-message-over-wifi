@@ -2,7 +2,7 @@
 
 > These apps were developed as part of my advanced driver assistance systems(ADAS) project.
   The apps are still in development phase. The project is based on a android platform.
-  So the objective was to figure out a way to  communicate from the base ADAS android platform to the drivers Andorid phone which will be  mounted on the dash while driving.
+  So the objective was to figure out a way to  communicate from the base ADAS Android platform to the drivers Andorid phone which will be  mounted on the dash while driving.
   The phone will display warnings and messages whenever the ADAS requires.
   
   
